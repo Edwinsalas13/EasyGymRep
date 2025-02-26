@@ -32,6 +32,20 @@ button:hover {
     background-color: #45a049;
 }
 
+.but {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.but:hover {
+    background-color: #45a049;
+}
+
 footer {
     text-align: center;
     padding: 10px;
